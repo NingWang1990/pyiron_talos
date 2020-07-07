@@ -1,0 +1,5 @@
+queue_type: SLURM
+queue_primary: s_talos
+queues:
+  s_talos: {cores_max: 1200, cores_min: 1, run_time_max: 5760, script: talos.sh}
+
