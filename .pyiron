@@ -1,0 +1,3 @@
+[DEFAULT]
+PROJECT_PATHS = /talos/u/wangnisn/pyiron/projects
+RESOURCE_PATHS =/talos/u/wangnisn/pyiron/resources
